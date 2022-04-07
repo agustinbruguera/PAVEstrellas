@@ -1,0 +1,12 @@
+C:\Trabajos\Facultad\ProyectoElectiva\2021\Unidad_III\Pav.U3.Delegados\Pav.U3.Delegados.Dominio\obj\Debug\Pav.U3.Delegados.Dominio.csprojAssemblyReference.cache
+C:\Trabajos\Facultad\ProyectoElectiva\2021\Unidad_III\Pav.U3.Delegados\Pav.U3.Delegados.Dominio\obj\Debug\Pav.U3.Delegados.Dominio.csproj.CoreCompileInputs.cache
+C:\Trabajos\Facultad\ProyectoElectiva\2021\Unidad_III\Pav.U3.Delegados\Pav.U3.Delegados.Dominio\bin\Debug\Pav.U3.Delegados.Dominio.dll
+C:\Trabajos\Facultad\ProyectoElectiva\2021\Unidad_III\Pav.U3.Delegados\Pav.U3.Delegados.Dominio\bin\Debug\Pav.U3.Delegados.Dominio.pdb
+C:\Trabajos\Facultad\ProyectoElectiva\2021\Unidad_III\Pav.U3.Delegados\Pav.U3.Delegados.Dominio\obj\Debug\Pav.U3.Delegados.Dominio.dll
+C:\Trabajos\Facultad\ProyectoElectiva\2021\Unidad_III\Pav.U3.Delegados\Pav.U3.Delegados.Dominio\obj\Debug\Pav.U3.Delegados.Dominio.pdb
+C:\Users\Agustin Bruguera\Documents\Dev\U4\Pav.U3.Delegados\Pav.U3.Delegados.Dominio\bin\Debug\Pav.U3.Delegados.Dominio.dll
+C:\Users\Agustin Bruguera\Documents\Dev\U4\Pav.U3.Delegados\Pav.U3.Delegados.Dominio\bin\Debug\Pav.U3.Delegados.Dominio.pdb
+C:\Users\Agustin Bruguera\Documents\Dev\U4\Pav.U3.Delegados\Pav.U3.Delegados.Dominio\obj\Debug\Pav.U3.Delegados.Dominio.csproj.AssemblyReference.cache
+C:\Users\Agustin Bruguera\Documents\Dev\U4\Pav.U3.Delegados\Pav.U3.Delegados.Dominio\obj\Debug\Pav.U3.Delegados.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Agustin Bruguera\Documents\Dev\U4\Pav.U3.Delegados\Pav.U3.Delegados.Dominio\obj\Debug\Pav.U3.Delegados.Dominio.dll
+C:\Users\Agustin Bruguera\Documents\Dev\U4\Pav.U3.Delegados\Pav.U3.Delegados.Dominio\obj\Debug\Pav.U3.Delegados.Dominio.pdb

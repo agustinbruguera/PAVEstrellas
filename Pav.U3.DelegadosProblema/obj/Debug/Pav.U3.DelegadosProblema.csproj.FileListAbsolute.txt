@@ -1,0 +1,29 @@
+C:\Trabajos\Facultad\ProyectoElectiva\2021\Unidad_III\Pav.U3.Delegados\Pav.U3.DelegadosProblema\obj\Debug\Pav.U3.DelegadosProblema.csprojAssemblyReference.cache
+C:\Trabajos\Facultad\ProyectoElectiva\2021\Unidad_III\Pav.U3.Delegados\Pav.U3.DelegadosProblema\obj\Debug\Pav.U3.DelegadosProblema.Properties.Resources.resources
+C:\Trabajos\Facultad\ProyectoElectiva\2021\Unidad_III\Pav.U3.Delegados\Pav.U3.DelegadosProblema\obj\Debug\Pav.U3.DelegadosProblema.csproj.GenerateResource.cache
+C:\Trabajos\Facultad\ProyectoElectiva\2021\Unidad_III\Pav.U3.Delegados\Pav.U3.DelegadosProblema\obj\Debug\Pav.U3.DelegadosProblema.csproj.CoreCompileInputs.cache
+C:\Trabajos\Facultad\ProyectoElectiva\2021\Unidad_III\Pav.U3.Delegados\Pav.U3.DelegadosProblema\bin\Debug\Pav.U3.DelegadosProblema.exe.config
+C:\Trabajos\Facultad\ProyectoElectiva\2021\Unidad_III\Pav.U3.Delegados\Pav.U3.DelegadosProblema\bin\Debug\Pav.U3.DelegadosProblema.exe
+C:\Trabajos\Facultad\ProyectoElectiva\2021\Unidad_III\Pav.U3.Delegados\Pav.U3.DelegadosProblema\bin\Debug\Pav.U3.DelegadosProblema.pdb
+C:\Trabajos\Facultad\ProyectoElectiva\2021\Unidad_III\Pav.U3.Delegados\Pav.U3.DelegadosProblema\obj\Debug\Pav.U3.DelegadosProblema.ConstelacionVista.resources
+C:\Trabajos\Facultad\ProyectoElectiva\2021\Unidad_III\Pav.U3.Delegados\Pav.U3.DelegadosProblema\obj\Debug\Pav.U3.DelegadosProblema.EstrellaControl.resources
+C:\Trabajos\Facultad\ProyectoElectiva\2021\Unidad_III\Pav.U3.Delegados\Pav.U3.DelegadosProblema\obj\Debug\Pav.U3.DelegadosProblema.exe
+C:\Trabajos\Facultad\ProyectoElectiva\2021\Unidad_III\Pav.U3.Delegados\Pav.U3.DelegadosProblema\obj\Debug\Pav.U3.DelegadosProblema.pdb
+C:\Trabajos\Facultad\ProyectoElectiva\2021\Unidad_III\Pav.U3.Delegados\Pav.U3.DelegadosProblema\bin\Debug\Pav.U3.Delegados.Dominio.dll
+C:\Trabajos\Facultad\ProyectoElectiva\2021\Unidad_III\Pav.U3.Delegados\Pav.U3.DelegadosProblema\bin\Debug\Pav.U3.Delegados.Dominio.pdb
+C:\Trabajos\Facultad\ProyectoElectiva\2021\Unidad_III\Pav.U3.Delegados\Pav.U3.DelegadosProblema\obj\Debug\Pav.U3.DelegadosProblema.csproj.CopyComplete
+C:\Users\Agustin Bruguera\Documents\Dev\U4\Pav.U3.Delegados\Pav.U3.DelegadosProblema\bin\Debug\Pav.U3.DelegadosProblema.exe.config
+C:\Users\Agustin Bruguera\Documents\Dev\U4\Pav.U3.Delegados\Pav.U3.DelegadosProblema\bin\Debug\Pav.U3.DelegadosProblema.exe
+C:\Users\Agustin Bruguera\Documents\Dev\U4\Pav.U3.Delegados\Pav.U3.DelegadosProblema\bin\Debug\Pav.U3.DelegadosProblema.pdb
+C:\Users\Agustin Bruguera\Documents\Dev\U4\Pav.U3.Delegados\Pav.U3.DelegadosProblema\bin\Debug\Pav.U3.Delegados.Dominio.dll
+C:\Users\Agustin Bruguera\Documents\Dev\U4\Pav.U3.Delegados\Pav.U3.DelegadosProblema\bin\Debug\Pav.U3.Delegados.Dominio.pdb
+C:\Users\Agustin Bruguera\Documents\Dev\U4\Pav.U3.Delegados\Pav.U3.DelegadosProblema\obj\Debug\Pav.U3.DelegadosProblema.csproj.AssemblyReference.cache
+C:\Users\Agustin Bruguera\Documents\Dev\U4\Pav.U3.Delegados\Pav.U3.DelegadosProblema\obj\Debug\Pav.U3.DelegadosProblema.csproj.SuggestedBindingRedirects.cache
+C:\Users\Agustin Bruguera\Documents\Dev\U4\Pav.U3.Delegados\Pav.U3.DelegadosProblema\obj\Debug\Pav.U3.DelegadosProblema.ConstelacionVista.resources
+C:\Users\Agustin Bruguera\Documents\Dev\U4\Pav.U3.Delegados\Pav.U3.DelegadosProblema\obj\Debug\Pav.U3.DelegadosProblema.EstrellaControl.resources
+C:\Users\Agustin Bruguera\Documents\Dev\U4\Pav.U3.Delegados\Pav.U3.DelegadosProblema\obj\Debug\Pav.U3.DelegadosProblema.Properties.Resources.resources
+C:\Users\Agustin Bruguera\Documents\Dev\U4\Pav.U3.Delegados\Pav.U3.DelegadosProblema\obj\Debug\Pav.U3.DelegadosProblema.csproj.GenerateResource.cache
+C:\Users\Agustin Bruguera\Documents\Dev\U4\Pav.U3.Delegados\Pav.U3.DelegadosProblema\obj\Debug\Pav.U3.DelegadosProblema.csproj.CoreCompileInputs.cache
+C:\Users\Agustin Bruguera\Documents\Dev\U4\Pav.U3.Delegados\Pav.U3.DelegadosProblema\obj\Debug\Pav.U3.DelegadosProblema.csproj.CopyComplete
+C:\Users\Agustin Bruguera\Documents\Dev\U4\Pav.U3.Delegados\Pav.U3.DelegadosProblema\obj\Debug\Pav.U3.DelegadosProblema.exe
+C:\Users\Agustin Bruguera\Documents\Dev\U4\Pav.U3.Delegados\Pav.U3.DelegadosProblema\obj\Debug\Pav.U3.DelegadosProblema.pdb
