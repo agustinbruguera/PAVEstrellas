@@ -48,18 +48,13 @@ namespace Pav.U3.DelegadosProblema
 
         private void btnEliminar_Click(object sender, EventArgs e)
         {
-            //_constelacion.Eliminar(pConstelacion);
-            //ActualizarTotal(_constelacion.Estrellas.Count);
+            _constelacion.Eliminar(EliminarConstelacion);
+            ActualizarTotal(_constelacion.Estrellas.Count);
         }
 
-        private void button1_Click_1(object sender, EventArgs e)
+        public void EliminarConstelacion()
         {
-
-        }
-
-        private void button1_Click_2(object sender, EventArgs e)
-        {
-
+            pConstelacion.Controls.Clear();
         }
     }
 }

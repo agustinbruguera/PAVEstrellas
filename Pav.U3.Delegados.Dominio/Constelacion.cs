@@ -65,8 +65,18 @@ namespace Pav.U3.Delegados.Dominio
             OnNovedades();
         }
 
-        public void Eliminar()
+        public void Eliminar(Action Eliminar)
         {
+            
+            Estrellas.Clear();
+            Eliminar();
+            OnNovedades();
+            //foreach (var item in Estrellas)
+            //{
+            //    Estrellas.Remove(item);
+            //}
+
+
             //var resultado = MessageBox.Show("¿Seguro desea eliminar la constelación?", "PAV", 
             //    MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes;
             //if (resultado)

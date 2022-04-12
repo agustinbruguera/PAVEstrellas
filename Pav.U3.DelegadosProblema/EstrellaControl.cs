@@ -50,23 +50,19 @@ namespace Pav.U3.DelegadosProblema
         {
             if (tamanio == Tamanio.Pequenia)
             {
-                lblEstrella.Font = new Font(lblEstrella.Font.FontFamily, 32);
+                lblEstrella.Font = new Font(lblEstrella.Font.FontFamily, 28);
             }
             else if (tamanio == Tamanio.Normal)
             {
-                lblEstrella.Font = new Font(lblEstrella.Font.FontFamily, 42);
+                lblEstrella.Font = new Font(lblEstrella.Font.FontFamily, 38);
             }
             else if (tamanio == Tamanio.Grande)
             {
-                lblEstrella.Font = new Font(lblEstrella.Font.FontFamily, 49);
-            }
-            else if (tamanio == Tamanio.Gigante)
-            {
-                lblEstrella.Font = new Font(lblEstrella.Font.FontFamily, 56);
+                lblEstrella.Font = new Font(lblEstrella.Font.FontFamily, 46);
             }
             else
             {
-                lblEstrella.Font = new Font(lblEstrella.Font.FontFamily, 24);
+                lblEstrella.Font = new Font(lblEstrella.Font.FontFamily, 28);
             }
         }
     }

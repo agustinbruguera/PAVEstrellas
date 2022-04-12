@@ -19,7 +19,7 @@ namespace Pav.U3.Delegados.Dominio
         public Tamanio Tamanio { get; set; }
 
         private readonly Func<Luminosidad, string> _iluminar;
-        private readonly Action<Tamanio> _tamanio;
+        private readonly Action<Tamanio> _establecerTamanio;
         public event DesaparecerDelegate Desaparecer;
 
         public Estrella(int tiempoDeVida, int genetica, Func<Luminosidad, string> iluminar, Action<Tamanio> establecerTamanio)
@@ -28,7 +28,7 @@ namespace Pav.U3.Delegados.Dominio
             Genetica = genetica;
             Edad = 0;
             _iluminar = iluminar;
-            _tamanio = establecerTamanio;
+            _establecerTamanio = establecerTamanio;
             Temperatura = 0;
         }
 
@@ -40,16 +40,16 @@ namespace Pav.U3.Delegados.Dominio
         
         public void CrecimientoGenetica()
         {
-            if (Genetica < 60)
+            if (Genetica < 65)
             {
                 Tamanio = Tamanio.Pequenia;
             }
-            else if (Genetica >= 60)
+            else if (Genetica >= 65)
             {
                 Tamanio = Tamanio.Normal;
             }
             else Tamanio = Tamanio.Normal;
-            _tamanio(Tamanio);            
+            _establecerTamanio(Tamanio);            
         }
 
         public void PasoDelTiempo()
@@ -58,16 +58,17 @@ namespace Pav.U3.Delegados.Dominio
             if (Edad <= TiempoDeVida * 0.1)
             {
                 Luminosidad = Luminosidad.Media;
+                Temperatura += 2;
             }
             else if (Edad > TiempoDeVida * 0.1 && Edad <= TiempoDeVida * 0.8)
             {
                 Luminosidad = Luminosidad.Alta;
-                Temperatura++;
+                Temperatura += 5;
             }            
             else
             {
                 Luminosidad = Luminosidad.Baja;
-                Temperatura--;
+                Temperatura -= 10;
             }
 
             if (Edad <= TiempoDeVida)
@@ -82,20 +83,17 @@ namespace Pav.U3.Delegados.Dominio
 
             
 
-            if (Temperatura >= 15){
-                Tamanio++;
-            }
-            else if (Temperatura >= 25)
+            if (Temperatura >= 45)
             {
                 Tamanio++;
             }
-            else if (Temperatura <= 5)
+            else if (Temperatura <= 15)
             {
                 Tamanio--;
             }
-            
-            
-            _tamanio(Tamanio);
+
+
+            _establecerTamanio(Tamanio);
             _iluminar(Luminosidad);
         }
 

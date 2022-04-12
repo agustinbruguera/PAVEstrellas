@@ -10,7 +10,6 @@ namespace Pav.U3.Delegados.Dominio
     {
         Pequenia,
         Normal,
-        Grande,
-        Gigante
+        Grande
     }
 }
